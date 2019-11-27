@@ -1,4 +1,4 @@
-# 🍪Biskit Design Kit
+# 🍪 Biskit Design Kit
 
 The Biskit Design Kit is a living, breathing document that contains all of our visual assets (components, iconography, color palettes, grids, templates, responsive behavior, etc). This document evolves and changes as we collaborate with partners and service teams. All of the assets that live in the Design Kit can also be found on our <a href="http://koek.nl/">Biskit Design System</a> website.
 
