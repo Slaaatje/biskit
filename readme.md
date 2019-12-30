@@ -37,5 +37,11 @@ Coming soon..
 ### Sketch Libraries
 Sketch Libraries is a new Sketch feature that allows designers to share Symbols across documents and easily update to the latest symbol changes. Read the [Sketch Libraries Overview](https://ruud.koek.link/biskit/docs/#/sketch-libraries) to learn more about how to use and implement Sketch Libraries in your workflow.
 
+* The Biskit Design Kit requires having the latest version of <a href="https://www.sketchapp.com/">Sketch</a> installed.
+* Open the Biskit Design Kit file in Abstract.
+* Choose 'Use as library'
+* Use the components page to build out your design
+* Updates to the Biskit Design Kit will be posted in our change log, so check back frequently for changes!
+
 ---
 Copyright © 2020 Koek B.V.
